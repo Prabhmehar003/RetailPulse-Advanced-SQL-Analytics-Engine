@@ -1,7 +1,7 @@
 # 🛒 RetailPulse — Advanced SQL Analytics Engine
 ### End-to-End Retail Sales Intelligence with PostgreSQL
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge&logo=databricks&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
