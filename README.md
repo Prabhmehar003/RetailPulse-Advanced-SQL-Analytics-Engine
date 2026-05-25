@@ -156,8 +156,8 @@ Four production-ready indexes including a **partial index** on high-value transa
 
 **Prabhmehar Dhalio**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prabhmehar-dhalio/))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)]([https://github.com/your-username](https://github.com/Prabhmehar003))
 
 ---
 
